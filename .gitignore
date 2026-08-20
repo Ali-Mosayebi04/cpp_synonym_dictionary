@@ -1,0 +1,42 @@
+# Build files
+
+*.o
+*.obj
+*.out
+*.exe
+*.app
+
+# Executables
+
+dictionary
+main
+
+# IDE files
+
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS
+
+.DS_Store
+
+# CMake
+
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Debug files
+
+*.dSYM/
+*.pdb
+
+# Temporary files
+
+*.tmp
+*.temp
